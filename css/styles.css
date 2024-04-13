@@ -17,7 +17,7 @@ body {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
@@ -63,9 +63,10 @@ color: #404bbf;
 
 .main-title {
         font-size: 56px;
-        line-height: 1.08;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         color: #fff;
+        text-align: center
 }
 
 .button-top {
@@ -105,6 +106,9 @@ color: #404bbf;
         line-height: 1.11111;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        line-height: 1.11;
+        text-align: center;
+        text-transform: capitalize;
 }
 
 .team-item {
@@ -127,9 +131,11 @@ color: #404bbf;
 /* =======OUR PORTFOLIO======= */
 .portfolio-title {
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        text-align: center;
+        text-transform: capitalize;
 }
 .portfolio-item {
     background: #fff;
@@ -157,9 +163,11 @@ color: #404bbf;
 .logo-footer {
     font-family: "Raleway", sans-serif;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         color: #4d5ae5;
+        font-weight: 700;
+        text-transform: uppercase
 }
 
 .logo-second {
